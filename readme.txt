@@ -17,7 +17,7 @@ TinyMCE Template plugin will enable to use HTML template on WordPress Visual Edi
 = Some features: =
 
 * Add "Insert Template" button to Visual Editor.
-* You can edit template on WordPress admin.
+* You can edit the template on WordPress admin.
 * Copy to template from posts & pages.
 * You can insert templates as shortcode.
 
@@ -41,9 +41,9 @@ You can send your own language pack to me.
 
 == Installation ==
 
-* A plug-in installation screen is displayed on the WordPress admin panel.
+* A plugin installation screen is displayed on the WordPress admin panel.
 * It installs it in `wp-content/plugins`.
-* The plug-in is made effective.
+* The plugin is made effective.
 * Open 'Template' menu.
 
 == Screenshots ==
@@ -97,8 +97,8 @@ You can send your own language pack to me.
 
 == Credits ==
 
-This plug-in is not guaranteed though the user of WordPress can freely use this plug-in free of charge regardless of the purpose.
-The author must acknowledge the thing that the operation guarantee and the support in this plug-in use are not done at all beforehand.
+This plugin is not guaranteed though the user of WordPress can freely use this plugin free of charge regardless of the purpose.
+The author must acknowledge the thing that the operation guarantee and the support in this plugin use are not done at all beforehand.
 
 == Contact ==
 
